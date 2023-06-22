@@ -1,8 +1,8 @@
 # Information of this program
 Name: 캬루괴롭히기\
 Maker: hamihauya\
-Create date: 2022-??-??\
-Modified date: 2023-06-22\
+Create date: 2022-11-24\
+Modified date: 2022-11-24\
 User lang set: Korean
 
 # How do start this program
